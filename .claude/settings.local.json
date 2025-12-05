@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\Users\\User\\OneDrive - DataCite e.V\\Documents\\FAIR Workflows\\precourse\\prereqs\\FAIR research workflows\")",
+      "Bash(git -C \"c:\\Users\\User\\OneDrive - DataCite e.V\\Documents\\FAIR Workflows\\precourse\" status)",
+      "Bash(git -C \"c:\\Users\\User\\OneDrive - DataCite e.V\\Documents\\FAIR Workflows\\precourse\" diff .gitignore)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
