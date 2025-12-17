@@ -39,7 +39,6 @@ Registry identifiers that connect organizations to researchers and outputs.
 
 The open PIDs are designed to work together seamlessly. For example, when you share a dataset on Zenodo, you can link it to your ORCID and your institution's ROR ID, as well as the DOIs of other upstream resources that are related to it, creating a rich web of connections that enhance discoverability, reproducibility, and fair attribution of credits.
 
-
 ## Practical steps to get started
 
 1. **Create a data management plan** to outline how you'll make your research FAIR at each stage (planning, data collection, analysis, sharing)
@@ -64,7 +63,7 @@ The tutorials you complete in this course produce real research artifacts—trea
 | OSF | Project management, preregistration | [osf.io](https://osf.io) |
 | protocols.io | Experimental protocols | [protocols.io](https://protocols.io) |
 | OpenNeuro | Neuroscience datasets | [openneuro.org](https://openneuro.org) |
-| brainlife.io | Neuroscience analysis pipelines | [brainlife.io](https://brainlife.io) ([Hayashi et al., 2024](https://doi.org/10.1038/s41592-024-02237-2)) |
+| ebrains | Brain research infrastructure platform | [ebrains.eu](https://ebrains.eu/) |
 
 For help choosing a repository, see the [Generalist Repository Comparison Chart](https://doi.org/10.5281/ZENODO.7946938).
 
